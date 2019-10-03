@@ -1,0 +1,60 @@
+@font-face {
+    font-family: "Yandex Sans";
+    src: url("Yandex Sans Text-Regular.ttf");
+}
+
+body {
+    font-family: "Yandex Sans";
+}
+
+.letter {
+    color: red;
+}
+
+.yandex {
+    letter-spacing: -2.1px;
+    font-size: 40px;
+    margin-top: 70px;
+    margin-left: 30px;
+}
+
+.course {
+    font-size: 90px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.info {
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 40px;
+}
+
+.course_content {
+    margin-top: 30px;
+    margin-left: 30px;
+    display: inline-block;
+    vertical-align: top;
+    width: 45%;
+}
+
+.lessons {
+    margin-top: 30px;
+    margin-left: 10px;
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+}
+
+.meeting {
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.picture {
+    margin-top: 100px;
+}
+
+.main_div {
+    width: 917px;
+}
